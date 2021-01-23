@@ -3,9 +3,9 @@
 
 This is a our project work for Topics in Applied Operational Research course which is co-taught by Dr. Miguel Anjos and Dr. Thomas Byrne at the University of Edinburgh. Song Feng, Ishaan Singh Jolly and Jarold Montes Olivera are choosing to replicate the following article: Kayla Cummings, Banafsheh Behzad, Susan Martonosi (2020) Centers for Disease Control and Prevention as a Strategic Agent inthe Pediatric Vaccine Market: An Analytical Approach. Manufacturing & Service Operations Management for the purpose of the project and we hope to acheive the following goals by the end of each week. 
 
-Week 3 : - Review the literature article
-         - Make notes on every cited article 
-         - Project report submission 
+Week 3 : - Review the literature article\\
+         - Make notes on every cited article \\
+         - Project report submission \\
 
 Week 4 : - Parse data from the sources cited in the article 
          - Create a database to store the data 
