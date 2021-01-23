@@ -17,7 +17,7 @@ This is a our project work for Topics in Applied Operational Research course whi
 2. Start looking how to develop a mini case and what can be left out in terms of data without affecting the model 
 
 ## Week 6:  
-1. Develop the model mini case using the softwares mentioned in the article such as:
+1. Develop the model mini case
 
 
 ## Week 7:  
