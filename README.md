@@ -32,9 +32,9 @@ This is a our project work for Topics in Applied Operational Research course whi
 1. Finishing on senstivity analysis 
 2. Transfer our results to a website(if possible and time allows) 
 
-##Week 10:  
+## Week 10:  
 1. Analysis of result and discuss methods to go beyond the model 
 
-##Week 11:  
+## Week 11:  
 1. Presentation and final report submission 
 
