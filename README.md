@@ -1,11 +1,11 @@
 ## Healthcare Vaccine Pricing
 
 
-This is a our project work for Topics in Applied Operational Research course which is co-taught by Dr. Miguel Anjos and Dr. Thomas Byrne at the University of Edinburgh. Song Feng, Ishaan Singh Jolly and Jarold Montes Olivera are choosing to replicate the following article: Kayla Cummings, Banafsheh Behzad, Susan Martonosi (2020) Centers for Disease Control and Prevention as a Strategic Agent inthe Pediatric Vaccine Market: An Analytical Approach. Manufacturing & Service Operations Management for the purpose of the project and we hope to acheive the following goals by the end of each week. 
+This is a our project work for Topics in Applied Operational Research course which is co-taught by Dr. Miguel Anjos and Dr. Thomas Byrne at the University of Edinburgh. Song Feng, Ishaan Singh Jolly and Jarold Montes Olivera are choosing to replicate the following article: Kayla Cummings, Banafsheh Behzad, Susan Martonosi (2020) Centers for Disease Control and Prevention as a Strategic Agent in the Pediatric Vaccine Market: An Analytical Approach. Manufacturing & Service Operations Management for the purpose of the project and we hope to acheive the following goals by the end of each week. 
 
 ## Week 3:
 1. Review the literature article
-2.  Make notes on every cited article 
+2. Make notes on every cited article 
 3. Project report submission 
 
 ## Week 4 : 
