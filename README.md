@@ -40,5 +40,5 @@ This is a our project work for Topics in Applied Operational Research course whi
 1. Presentation and final report submission 
 
 
-# In doing all of our work we should be using BARON(MINLP solver hoested on NEOS), Xpress, Python, XML(for Data scrapping). We will add(and remove) this as we learn more about the project and as we form the minicase.
+In doing all of our work we should be using BARON(MINLP solver hosted on NEOS), Xpress, Python, XML(for Data scrapping). We will add(and remove) this as we learn more about the project and as we form the minicase.
 
