@@ -1,0 +1,32 @@
+data;
+
+set Manufacturers := x y;
+set Sectors := public private;
+
+param gamma := 0.25;
+param demand := 4034000;
+param mu := 0.0001;
+
+param: a :=
+public  2607400
+private 2941200;
+
+param: b :=
+public  106666.6667
+private 106666.6667;
+
+param: c :=
+public  26666.6667
+private 26666.6667;
+
+param: K :=
+x  4034000
+y  4034000;
+
+param: P :=
+x  39800000
+y  45100000;
+
+param: rho :=
+x  18.62
+y  18.02;

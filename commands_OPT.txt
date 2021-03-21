@@ -1,0 +1,8 @@
+solve;
+display gamma;
+display demand;
+display mu;
+display price;
+display quant;
+display z;
+display PubCost;
